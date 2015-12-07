@@ -1,0 +1,21 @@
+{
+  "name": "kffein-elixir-tinypng",
+  "version": "0.1.1",
+  "description": "Laravel Elixir wrapper around tinypng-compress Gulp task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "gulp",
+    "laravel",
+    "elixir",
+    "tinypng"
+  ],
+  "author": "Kffein",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-tinypng-compress": "latest",
+    "underscore": "latest"
+  }
+}
