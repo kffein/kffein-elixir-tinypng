@@ -12,6 +12,14 @@
     "elixir",
     "tinypng"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KFFEIN/kffein-elixir-tinypng"
+  },
+  "homepage": "https://github.com/KFFEIN/kffein-elixir-tinypng",
+  "bugs": {
+    "url": "https://github.com/KFFEIN/kffein-elixir-tinypng/issues"
+  },
   "author": "Kffein",
   "license": "MIT",
   "dependencies": {
